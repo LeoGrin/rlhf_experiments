@@ -1,0 +1,3 @@
+[submodule "diversity_metrics"]
+	path = diversity_metrics
+	url = https://github.com/CarperAI/diversity_metrics.git
